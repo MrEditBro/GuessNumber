@@ -1,5 +1,5 @@
 # GuessNumber
-Game of guessing the random number
+Game of guessing the random number, based on https://roadmap.sh/projects/number-guessing-game
 ## How to build
 ### Linux
 ```Bash
